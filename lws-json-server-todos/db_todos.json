@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "text": "Heloo",
+      "completed": true,
+      "color": "green",
+      "id": 1
+    },
+    {
+      "text": "hello",
+      "completed": false,
+      "color": "red",
+      "id": 3
+    },
+    {
+      "text": "hello2",
+      "completed": true,
+      "color": "green",
+      "id": 4
+    },
+    {
+      "text": "Hello 2",
+      "completed": true,
+      "color": "red",
+      "id": 5
+    }
+  ]
+}
