@@ -4,7 +4,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 export const todosApi = createApi({
   reducerPath: "api",
   baseQuery: fetchBaseQuery({
-    baseUrl: "http://mamun-json-server.herokuapp.com/",
+    baseUrl: "https://mamun-json-server.herokuapp.com/",
   }),
   tagTypes: ["Todos"],
   endpoints: (builder) => ({
